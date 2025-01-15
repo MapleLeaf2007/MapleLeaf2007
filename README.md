@@ -41,13 +41,21 @@
 <div>
 <img align="165" width="400" src="https://github-readme-stats.vercel.app/api?username=MapleLeaf2007&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=calm&langs_count=6&layout=compact" />
+<img align="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </div>
 
 <!--我的贡献-->
 
 #### My Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MapleLeaf2007&theme=catppuccin-latte)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MapleLeaf2007&theme=catppuccin-latte)](https://gitee.com/maple-leaf-sweeping)
+[![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=MapleLeaf2007&theme=github-compact&hide_border=true&area=true)](https://gitee.com/maple-leaf-sweeping)
+
+<!--代码编写时长-->
+
+#### WakaTime
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <!-- 个人主页结束语 -->
 
