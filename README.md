@@ -10,6 +10,10 @@
     <img src="https://count.getloli.com/@MapleLeaf2007?name=MapleLeaf2007&theme=random" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
+<!--彩虹分割线-->
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <!-- 开发平台 -->
 
 #### Platforms
@@ -56,6 +60,13 @@
 #### WakaTime
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
+
+<!--彩虹分割线-->
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- 个人主页结束语 -->
 
