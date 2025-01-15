@@ -44,8 +44,8 @@
 
 <div>
 <img align="165" width="400" src="https://github-readme-stats.vercel.app/api?username=MapleLeaf2007&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=calm&langs_count=6&layout=compact" />
-<img align="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=transparent&layout=compact" />
+<!-- <img align="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 </div>
 
 <!--我的贡献-->
