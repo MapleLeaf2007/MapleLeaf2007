@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- 个人主页欢迎语-->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20MapleLeaf's%20Homepage&descColor=gradient&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-<!--
-**MapleLeaf2007/MapleLeaf2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 统计访问数据 -->
 
-Here are some ideas to get you started:
+<div>
+    <img src="https://count.getloli.com/@MapleLeaf2007?name=MapleLeaf2007&theme=random" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 开发平台 -->
+#### Platforms
+
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]([https://](https://github.com/torvalds/linux))
+
+<!-- 技术栈 -->
+#### Languages
+
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,html,css,js,ts,md,rust,go,nodejs&titles=true" alt="Skill Icons" title="Skill Icons">
+</p>
+
+<!--联系网站-->
+#### Sites
+
+<a href="https://t.me/MapleLeaf2007" target="_blank"><img src="https://img.shields.io/badge/telegram-@MapleLeaf-000000.svg?style=flat-square&amp;logo=telegram" alt="telegram"/></a>
+<a href="https://github.com/mapleleaf2007"><img src="https://img.shields.io/badge/GitHub-@MapleLeaf-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
+<a href="https://gitee.com/maple-leaf-sweeping"><img src="https://img.shields.io/badge/Gitee-@MapleLeaf-000000.svg?logo=Gitee" alt="Gitee" target="_blank"></a>
+
+<!-- 技术统计-->
+#### My Coding Project And Language
+
+<div>
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=MapleLeaf2007&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleLeaf2007&theme=calm&langs_count=6&layout=compact" />
+</div>
+
+<!--我的贡献-->
+#### My Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MapleLeaf2007&theme=catppuccin-latte&hide_border=%E5%81%87&short_numbers=%E5%81%87)](https://git.io/streak-stats)
+
+<!-- 个人主页结束语 -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thank%20you%20for%20visiting%20MapleLeaf's%20Homepage&descColor=gradient&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
