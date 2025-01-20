@@ -59,7 +59,7 @@
 
 #### WakaTime
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MapleLeaf2007&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MapleLeaf&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
